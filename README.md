@@ -8,11 +8,11 @@ These scripts automate tasks like Git commits, environment setup, backups, envir
 
 ## 🚀 Features
 
-- ✅ Auto-commit & push code with one command  
-- ⚙️ Instantly set up new projects  
-- 💾 Backup important folders automatically  
-- 🌍 Switch environments (Dev / Prod) easily  
-- 🧹 Clean up and lint code before pushing  
+- Auto-commit & push code with one command  
+- Instantly set up new projects  
+- Backup important folders automatically  
+- Switch environments (Dev / Prod) easily  
+- Clean up and lint code before pushing  
 
 ---
 
