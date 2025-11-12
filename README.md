@@ -2,7 +2,7 @@
 
 A collection of automation scripts for developers to simplify daily workflows, boost productivity, and show forward-thinking engineering practices.  
 
-These scripts automate tasks like Git commits, environment setup, backups, environment switching, and code cleanup — written in both **Bash** for cross-platform use.
+These scripts automate tasks like Git commits, environment setup, backups, environment switching, and code cleanup — written in **Bash** for cross-platform use.
 
 ---
 
